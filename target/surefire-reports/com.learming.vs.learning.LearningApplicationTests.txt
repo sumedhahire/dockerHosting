@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learming.vs.learning.LearningApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.857 s -- in com.learming.vs.learning.LearningApplicationTests
